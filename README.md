@@ -1,7 +1,7 @@
 <!-- Banner GIF ada di assets/banner.gif (versi kompres: 24 frame, 128 warna, 1.75 MB).
      Banner lama pakai capsule-render, disimpen di bagian paling bawah file ini kalau mau balik. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/banner.gif" width="100%" alt="banner" />
+  <img src="https://raw.githubusercontent.com/NarumBella/NarumBella/main/assets/banner.gif" width="100%" alt="banner" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NarumBella-TIG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NarumBella"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/frince_cymi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@cymi06"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <!-- logo SociaBuzz nggak ada di koleksi shields.io, jadi dipasang manual sebagai data URI -->
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NarumBella-TIG&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=NarumBella&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 </td>
 <td width="38%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/halo-square.gif" width="260" alt="" />
+  <img src="https://raw.githubusercontent.com/NarumBella/NarumBella/main/assets/halo-square.gif" width="260" alt="" />
 </td>
 </tr>
 </table>
@@ -94,9 +94,9 @@ Built with **Python + OpenCV + MediaPipe Tasks API**.
 
 <!-- SVG-nya dibikin otomatis sama .github/workflows/snake.yml, disimpan di branch "output" -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake.svg" />
-  <img alt="snake eating the contribution grid" src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarumBella/NarumBella/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarumBella/NarumBella/output/github-snake.svg" />
+  <img alt="snake eating the contribution grid" src="https://raw.githubusercontent.com/NarumBella/NarumBella/output/github-snake.svg" />
 </picture>
 
 ---
@@ -104,19 +104,19 @@ Built with **Python + OpenCV + MediaPipe Tasks API**.
 ### Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NarumBella-TIG&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NarumBella&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Kartu github-readme-stats lagi dimatiin: instance publiknya balikin HTTP 503
      (sering kena rate limit GitHub API). Kalau udah normal, hapus komentar ini.
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NarumBella-TIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarumBella-TIG&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NarumBella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarumBella&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarumBella-TIG&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarumBella&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">

@@ -54,26 +54,39 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 ### Tech Stack
 
-<!-- Ikonnya dari skillicons.dev — daftar kode ikon lengkap ada di https://skillicons.dev -->
+<!-- Ikonnya dari skillicons.dev — daftar kode ikon lengkap ada di https://skillicons.dev
+     Tiap ikon diminta terpisah (bukan satu gambar gabungan) supaya bisa dibungkus <a>
+     dan diklik menuju situs resminya. -->
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,tailwind&theme=dark" />
+  <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" /></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>
 </p>
 
 **Frameworks, Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode,figma&theme=dark" />
+  <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="Visual Studio Code" /></a>
+  <a href="https://www.figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /></a>
 </p>
 
 **Computer Vision**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+  <a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" /></a>
+  <a href="https://ai.google.dev/edge/mediapipe" title="MediaPipe"><img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" /></a>
+  <a href="https://numpy.org" title="NumPy"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
 </p>
 
 ---
